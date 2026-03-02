@@ -4,7 +4,7 @@
 
 <!-- <h1 align="center"> CorpoVinculo </h1> -->
 
-<p align="center">This repository holds the entire application stack for <b>CorpoVinculo</b>.<br> This platform is a centralized, role-based system designed to streamline sponsorship management and industry outreach for IEEE student branches and sub-clubs. </p>
+<p align="center">This platform is a centralized, role-based system designed to streamline sponsorship management and industry outreach for IEEE student branches and sub-clubs. </p>
 
 -----
 
